@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:20kas04@gmail.com"><img src="https://img.shields.io/badge/Email-20kas04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <img src="https://img.shields.io/badge/Location-Ivanovo-0A66C2?style=for-the-badge" alt="location"/>
+  <img src="https://img.shields.io/badge/Location-Moscow-0A66C2?style=for-the-badge" alt="location"/>
   <img src="https://img.shields.io/badge/Age-21-2E8B57?style=for-the-badge" alt="age"/>
 </p>
 
