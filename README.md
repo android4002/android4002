@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Андрей Кузнецов 👋</h1>
+<h1 align="center">Привет, я Андрей 👋</h1>
 <h3 align="center">Python Backend Developer / ML Engineer (Medical AI)</h3>
 
 <p align="center">
