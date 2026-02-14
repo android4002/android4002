@@ -15,7 +15,7 @@
 - прогнозирование клинических исходов;
 - интерпретируемые модели для поддержки врачебных решений.
 
-Параллельно проектирую backend-сервисы (FastAPI, async SQLAlchemy, PostgreSQL, Redis) для внедрения моделей в реальные workflow.
+Параллельно проектирую backend-сервисы (FastAPI, async SQLAlchemy, PostgreSQL) для внедрения моделей в реальные workflow.
 
 ## 🔬 Ключевые проекты
 ### 1) Стратификация пациентов с острым коронарным синдромом
@@ -34,11 +34,11 @@ ML-система для приоритизации клинической по�
 - Интерпретация: `SHAP TreeExplainer`
 - Результат: `F1-Score 0.85+`, ключевые факторы: ФВ, Killip
 
-### 3) Booking API (pet-проект)
+### 3) Booking API
 Асинхронный REST API с аутентификацией и ролевой моделью доступа.
 
 - Архитектура: `Repository Pattern`, `Dependency Injection`
-- Безопасность: `JWT (httpOnly cookies)`, `bcrypt`, `RBAC`
+- Безопасность: `JWT`, `bcrypt`, `RBAC`
 - БД: `PostgreSQL` + `SQLAlchemy async` + `Alembic`
 
 ## 🛠 Технологический стек
